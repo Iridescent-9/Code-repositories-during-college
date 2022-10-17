@@ -1,0 +1,13 @@
+9
+11
+v1 v2 a1 6
+v1 v3 a2 4
+v1 v4 a3 5
+v2 v5 a4 1
+v3 v5 a5 1
+v4 v6 a6 2
+v5 v7 a7 9
+v6 v8 a9 4
+v5 v8 a8 7
+v7 v9 a10 2
+v8 v9 a11 4
